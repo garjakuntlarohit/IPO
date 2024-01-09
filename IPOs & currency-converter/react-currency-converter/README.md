@@ -25,7 +25,7 @@ To run the React Currency Converter on your local machine, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```
-git clone https://github.com/simranlotey/react-currency-converter.git
+git clone https://github.com/garjakuntlarohit/IPO/tree/main/IPOs%20%26%20currency-converter/react-currency-converter
 ```
 
 2. Navigate to the project directory:
